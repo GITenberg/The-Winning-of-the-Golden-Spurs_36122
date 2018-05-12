@@ -1,0 +1,31 @@
+_repo: The-Winning-of-the-Golden-Spurs_36122
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36122-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Westerman, Percy F. (Percy Francis)
+    birthdate: 1876
+    deathdate: 1959
+    gutenberg_agent_id: '32140'
+    url: http://www.gutenberg.org/2009/agents/32140
+    wikipedia: http://en.wikipedia.org/wiki/Percy_F._Westerman
+description: Though most of his action-adventure tales were set against the backdrop
+  of World War I, in The Winning of the Golden Spurs, author Percy F. Westerman takes
+  readers back in time for a rip-roaring romp set in the Middle Ages. Fans of historical
+  fiction will love this fast-moving tale of a skilled archer's exploits.
+gutenberg_issued: '2011-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36122'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Edward III, 1327-1377 -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+title: The Winning of the Golden Spurs
+url: http://www.gutenberg.org/ebooks/36122
